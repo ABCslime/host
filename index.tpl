@@ -20,7 +20,7 @@
         <div class="row mt-2 mb-5">
             <div class="col">
                 
-                <h3>{{ .ServerInfo.OS }}</h3>
+                <h3>{{ .FetchServerInfo "" }}</h3>
                 
                 
             </div>
