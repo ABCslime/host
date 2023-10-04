@@ -20,7 +20,7 @@
         <div class="row mt-2 mb-5">
             <div class="col">
                 
-                <h3>{{7*7}}</h3>
+                <h3>{7*7}</h3>
                 
                 
             </div>
